@@ -46,10 +46,18 @@ The goal: **Financial Independence through smarter, data-backed real estate inve
 ![heatmap](Rio_Rancho_Heat_Map_5282025.png)
 ![top10](./outputs/top10_bar_chart.png)
 
-| Address                         | Price     | Acres | $/Acre  |
-|----------------------------------|-----------|--------|----------|
-| 1234 Rio Rancho Blvd, NM         | $22,000   | 1.0    | $22,000  |
-| 5678 Vista Del Norte, NM         | $17,000   | 0.8    | $21,250  |
+🏞️ Top 10 Cheapest Lots ($/Acre) Within High-Density Sale Zones (5/29/2025):
+                                              address    price  lot_acres  price_per_acre
+       LOT NULL Fifteen B Dr NE, Rio Rancho, NM 87144 150000.0       2.72    55147.058824
+               550B Fruta Rd NE, Rio Rancho, NM 87124 155000.0       2.50    62000.000000
+         1522 Broadmoor Blvd NE, Rio Rancho, NM 87144  42950.0       0.50    85900.000000
+3200 Stapleton Ave NE LOT 4A-4B, Rio Rancho, NM 87124  99000.0       1.00    99000.000000
+         1814 Broadmoor Blvd NE, Rio Rancho, NM 87144 250000.0       2.50   100000.000000
+                1250 Inca Rd NE, Rio Rancho, NM 87124 100000.0       1.00   100000.000000
+         1526 Broadmoor Blvd NE, Rio Rancho, NM 87144  60000.0       0.50   120000.000000
+               1990 12th Ave SE, Rio Rancho, NM 87124 120000.0       0.98   122448.979592
+               2402 Istle Rd NE, Rio Rancho, NM 87124 110000.0       0.79   139240.506329
+              2320 Idalia Rd NE, Rio Rancho, NM 87124  98750.0       0.62   159274.19354
 
 ---
 
