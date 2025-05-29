@@ -44,7 +44,7 @@ The goal: **Financial Independence through smarter, data-backed real estate inve
 ## 🧪 Sample Output
 
 ![heatmap](Rio_Rancho_Heat_Map_5282025.png)
-![top10](./outputs/top10_bar_chart.png)
+![top10](Rio_Rancho_Top10_Undervalued_Lots.png)
 
 🏞️ Top 10 Cheapest Lots ($/Acre) Within High-Density Sale Zones (5/29/2025):
                                               address    price  lot_acres  price_per_acre
